@@ -56,19 +56,3 @@ Data Structure: ArrayList, file I/O operations
 
 Modular Design: Separate methods for each feature
 
-
-📂 File Structure
-
-Uni Management/
-
-├── adminAccounts.txt          # Admin credentials
-
-├── StudentsAccounts.txt       # Student credentials
-
-├── Students_sem1.txt          # Semester-wise student records
-
-├── Courses_sem1.txt           # Semester-wise courses
-
-├── marks_sem1.txt             # Semester-wise grades/CGPA
-
-└── ... (up to sem8)
