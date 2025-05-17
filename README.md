@@ -1,6 +1,5 @@
-#University Management System in Java for Programming Fundamentals course. Features admin & student logins, student/course management, GPA/CGPA calculator, and file-based data storage for semester-wise records.
-
-Student Management System (SMS) with GPA Calculator
+# Student Management System (SMS) with GPA Calculator
+University Management System in Java for Programming Fundamentals course. Features admin & student logins, student/course management, GPA/CGPA calculator, and file-based data storage for semester-wise records.
 
 📌 Overview
 This Student Management System (SMS) is a console-based Java application developed as a 2nd-semester project. It allows:
