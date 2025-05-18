@@ -1,5 +1,4 @@
 # Student Management System (SMS) with GPA Calculator
-
 A Java console application developed for Programming Fundamentals course (2nd semester) featuring role-based access and academic tools.
 
 ## 📌 Overview
